@@ -1,0 +1,70 @@
+{
+    "postagens": [
+      {
+        "titulo": "Meu primeiro dia no trabalho!",
+        "conteudo": "Estou tão animado para começar essa nova jornada.",
+        "data": "2024-10-01",
+        "comentarios": [
+          {
+            "titulo": "Parabéns!",
+            "conteudo": "Desejo muito sucesso!",
+            "data": "2024-10-02",
+            "autor": "Maria"
+          }
+        ],
+        "autor": {
+          "nome": "João",
+          "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+          "cargo": "Desenvolvedor"
+        }
+      },
+      {
+        "titulo": "Adoro programar!",
+        "conteudo": "Nada como um dia de codificação.",
+        "data": "2024-10-03",
+        "comentarios": [
+          {
+            "titulo": "Incrível!",
+            "conteudo": "Qual linguagem você mais gosta?",
+            "data": "2024-10-04",
+            "autor": "Lucas"
+          }
+        ],
+        "autor": {
+          "nome": "Ana",
+          "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+          "cargo": "Engenheira"
+        }
+      },
+      {
+        "titulo": "Dicas de produtividade",
+        "conteudo": "Organize seu dia para ser mais eficiente!",
+        "data": "2024-10-05",
+        "comentarios": [],
+        "autor": {
+          "nome": "Carlos",
+          "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+          "cargo": "Gerente"
+        }
+      },
+      {
+        "titulo": "Férias planejadas!",
+        "conteudo": "Mal posso esperar para viajar!",
+        "data": "2024-10-06",
+        "comentarios": [
+          {
+            "titulo": "Para onde você vai?",
+            "conteudo": "Aproveite muito!",
+            "data": "2024-10-07",
+            "autor": "Fernanda"
+          }
+        ],
+        "autor": {
+          "nome": "Roberto",
+          "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+          "cargo": "Designer"
+        }
+      }
+    ]
+  }
+  

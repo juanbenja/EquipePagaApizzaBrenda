@@ -1,0 +1,37 @@
+/* Título com Animação Colorida */
+@keyframes colorChange {
+    0% { color: #ff6363; }
+    25% { color: #ffcc63; }
+    50% { color: #63ff8a; }
+    75% { color: #63c0ff; }
+    100% { color: #ff63d4; }
+  }
+  .animate-title {
+    animation: colorChange 5s infinite;
+  }
+  
+  /* Modo Noturno e Ajuste de Cores */
+  body.dark-mode {
+    background-color: #1a202c;
+  }
+  
+  #socialContainer.dark-mode {
+    background-color: #2d3748;
+    color: #e2e8f0;
+  }
+  
+  #postForm.dark-mode, .post.dark-mode {
+    background-color: #4a5568;
+    color: #e2e8f0;
+  }
+  
+  .post .comment.dark-mode {
+    background-color: #4a5568;
+    border-color: #e2e8f0;
+  }
+  
+  /* Botão de Modo Noturno */
+  button#darkModeToggle {
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
